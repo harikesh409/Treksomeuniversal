@@ -580,9 +580,9 @@ body.mobile-nav-active #mobile-nav-toggle {
   background-size: cover;
   background-repeat: no-repeat;
   position: relative;
-  height: 260px;
+  height: 160px;
   width: 100%;
-  display: table;
+  display: block;
   overflow: hidden;
   margin-bottom: 30px;
 }
